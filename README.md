@@ -7,7 +7,7 @@
 - 📈 Interested in **FinTech development**
 - 👨‍💻 All of my projects are available **here**
 - 🏆 Certified: SoftServe - QUALITY ASSURANCE AND AUTOMATED TESTING OF MODERN SOFTWARE SYSTEMS (April, 2022)
-- ⚡ Fun fact **I was among the first 15 graduates from my QA Automation course to secure my initial job role**
+- ⚡ Fun fact **I was among the first 12 graduates from my QA Automation course to secure my initial job role**
 
 <h3 align="left">Languages and Tools:</h3>
 
