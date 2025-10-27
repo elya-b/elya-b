@@ -1,5 +1,5 @@
-# <p align="center">Hi 👋, I'm Elina Benemianovych</p>
-# <p align="center">QA Automation Engineer (Java)</p>
+<h1 align="center">Hi 👋, I'm Elina Benemianovych</h1>
+<h3 align="center">QA Automation Engineer (Java)</h3>
 
 ### About me:
 
