@@ -3,7 +3,7 @@
 
 ### About me:
 
-* ⏳ **3+ years** in Automation testing
+* ⏳ **3.5+ years** in Automation testing
 * 📈 Interested in **FinTech development**
 * 👨‍💻 All of my projects are available **here** *(Примечание: Ссылка в Markdown будет выглядеть как [here](#), так как в оригинале не было URL)*
 * 🏆 Certified: SoftServe - QUALITY ASSURANCE AND AUTOMATED TESTING OF MODERN SOFTWARE SYSTEMS (April, 2022)
