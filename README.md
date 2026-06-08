@@ -3,7 +3,7 @@
 
 ### About me:
 
-* ⏳ **3.5+ years** in Automation testing
+* ⏳ **4 years** in Automation testing
 * 📈 Interested in **FinTech development**
 * 👨‍💻 All of my projects are available **[here](https://github.com/elya-b)**
 * 🏆 Certified: SoftServe - QUALITY ASSURANCE AND AUTOMATED TESTING OF MODERN SOFTWARE SYSTEMS (April, 2022)
